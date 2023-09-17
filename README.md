@@ -1,6 +1,6 @@
 # React Web Page with Type Animation
 
-[Demo](https://ninou01.github.io/react-data-finance/) <!-- Replace with your actual demo URL -->
+[Demo](https://6507636ca20b4e71328ee91d--famous-bombolone-fc4387.netlify.app/) <!-- Replace with your actual demo URL -->
 
 This is a beginner-friendly web page built using React and React-Type-Animation, inspired by the tutorial [React JS & Tailwind CSS Responsive Website - Beginner Friendly](https://www.youtube.com/watch?v=ZU-drSVodBw&ab_channel=CodeCommerce) by CodeCommerce.
 
